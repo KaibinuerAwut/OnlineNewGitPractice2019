@@ -2,5 +2,5 @@ package tests;
 
 public class GoogleTests {
   
-  // new commit added
+  // this is a new comment
 }
