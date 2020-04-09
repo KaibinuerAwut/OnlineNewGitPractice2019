@@ -10,3 +10,6 @@ MA
 RI
 Ohio
 Arizona
+Colorado
+Washington
+NJ
